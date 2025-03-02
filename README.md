@@ -11,7 +11,7 @@ Baidu Driver: 1121
 
 
 ## News
-**[Dec 20, 2024]**
+**[Feb 14, 2025]**
 - We release codes, models and raw results. \
 Thanks for your star :stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes::stuck_out_tongue_closed_eyes:.
 
