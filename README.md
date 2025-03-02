@@ -92,7 +92,7 @@ and put it under ./pretrained/.
 ```
 bash train_EventTPT.sh
 ```
-You can train models with various modalities and variants by modifying ```train_vipt.sh```.
+You can train models with various modalities and variants by modifying ```train_EventTPT.sh```.
 
 ### Testing
 
