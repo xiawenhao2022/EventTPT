@@ -56,7 +56,7 @@ bash install_EventTPT.sh
 ### Data Preparation
 Put the training datasets in ./data/. It should look like:
 ```
-$<PATH_of_ViPT>
+$<PATH_of_EventTPT>
 -- data
     -- EventUAV
         |-- 1
