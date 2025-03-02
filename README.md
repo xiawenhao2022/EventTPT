@@ -23,8 +23,6 @@ Baidu Driver: 1121
 
 - We present EventTPT, a novel RGB-Event tracking framework for challenging scenarios.
 
-- ViPT is with high parameter-efficient tuning, containing only 0.84M trainable parameters (<1%).
-
 - We expect EventTPT to be a resilient vision system for robotic applications.
 
 <center><img width="90%" alt="" src="assets/framework.png"/></center>
