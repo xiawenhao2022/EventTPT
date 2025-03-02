@@ -123,10 +123,10 @@ bash eval_rgbe.sh
 
 
 ## Bixtex
-If you find ViPT is helpful for your research, please consider citing:
+If you find EventTPT is helpful for your research, please consider citing:
 
 ```bibtex
-@inproceedings{ViPT,
+@inproceedings{EventTPT,
   title={Towards Survivability in Complex Motion Scenarios: RGB-Event Object Tracking via Historical Trajectory Prompting},
   author={Wenhao Xia,Jiawen Zhu,Zihao Huang,Jinqing Qi,You He,Xu Jia},
   booktitle={ICRA},
