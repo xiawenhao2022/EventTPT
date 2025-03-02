@@ -39,7 +39,7 @@ Baidu Driver: 1121
 <center><img width="90%" alt="" src="assets/results_EventUAV.png"/></center>
 
 ## Presentation Demo
-[![demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1700462927/video_to_markdown/images/youtube--DHNR2fvTZW8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zCImkIVw4Lg "")
+[![demo](./assets/demo.png)](https://www.youtube.com/watch?v=zCImkIVw4Lg "")
 
 ## Usage
 ### Installation
