@@ -1,4 +1,4 @@
-# Towards Survivability in Complex Motion Scenarios: RGB-Event Object Tracking via Historical Trajectory Prompting
+# EventTPT [ICRA25]
 
 The official implementation for the **ICRA2025** paper [Towards Survivability in Complex Motion Scenarios: RGB-Event
 Object Tracking via Historical Trajectory Prompting].
