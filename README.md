@@ -39,7 +39,8 @@ Baidu Driver: 1121
 <center><img width="90%" alt="" src="assets/results_EventUAV.png"/></center>
 
 ## Presentation Demo
-[![demo](G:\EventUAV\EventTPT\assets\demo.png)](https://www.youtube.com/watch?v=zCImkIVw4Lg "")
+[![demo](https://res.cloudinary.com/marcomontalbano/image/upload/v1700462927/video_to_markdown/images/youtube--DHNR2fvTZW8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zCImkIVw4Lg "")
+
 ## Usage
 ### Installation
 Create and activate a conda environment:
@@ -76,7 +77,7 @@ $<PATH_of_ViPT>
 ### Path Setting
 Run the following command to set paths:
 ```
-cd <PATH_of_ViPT>
+cd <PATH_of_EventTPT>
 python tracking/create_default_local_file.py --workspace_dir . --data_dir ./data --save_dir ./output
 ```
 You can also modify paths by these two files:
