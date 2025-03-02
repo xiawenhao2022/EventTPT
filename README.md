@@ -19,15 +19,13 @@ Baidu Driver: 1121
 - EventTPT is accepted to ICRA2025.
 
 ## Introduction
-- We contribute a RGB-Event tracking benchmark named
-EventUAV for tracking objects with complex motion
-trajectories. 
+- We contribute a RGB-Event tracking benchmark named EventUAV for tracking objects with complex motion trajectories. 
 
-- ViPT has high performance on multiple multi-modal tracking tasks.
+- We present EventTPT, a novel RGB-Event tracking framework for challenging scenarios.
 
 - ViPT is with high parameter-efficient tuning, containing only 0.84M trainable parameters (<1%).
 
-- We expect ViPT can attract more attention to prompt learning :fire: for further research of multi-modal tracking.
+- We expect EventTPT to be a resilient vision system for robotic applications.
 
 <center><img width="90%" alt="" src="assets/framework.png"/></center>
 
