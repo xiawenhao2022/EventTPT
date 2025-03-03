@@ -39,7 +39,7 @@ Baidu Driver: 1121
 <center><img width="90%" alt="" src="assets/results_EventUAV.png"/></center>
 
 ## Presentation Demo
-[![demo](./assets/demo.png)](https://www.youtube.com/watch?v=zCImkIVw4Lg "")
+[![demo](./assets/demo.png)](https://www.youtube.com/watch?v=G2MzVmmxpQA "")
 
 ## Usage
 ### Installation
